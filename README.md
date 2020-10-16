@@ -14,8 +14,8 @@ Fancy block links:
 
 Regular links:
 
-[Page 1.md]()
+[Page 1](Page%201.md)
 
-[Page 2.md]()
+[Page 2](Page%202.md)
 
-[Page 3]()
+[Page 3](Page%203)
