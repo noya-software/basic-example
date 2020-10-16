@@ -4,6 +4,18 @@
 
 This example demonstrates how to link pages together.
 
+Fancy block links:
+
 <a class="page" href="Page 1.md">Page 1</a>
 
 <a class="page" href="Page 2.md">Page 2</a>
+
+<a class="page" href="Page 3">Page 3</a>
+
+Regular links:
+
+[Page 1.md]()
+
+[Page 2.md]()
+
+[Page 3]()
